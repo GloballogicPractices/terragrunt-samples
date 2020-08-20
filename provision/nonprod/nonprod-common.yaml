@@ -1,0 +1,12 @@
+location: "westus2"
+client_name: "reged"
+owner: "denys.yermakov@reged.com"
+creator: "gl-devops@reged.com"
+vendor:	"globallogic"
+application: "reged"
+
+
+CIDR:
+  westus2:
+    HUB: "10.110"
+    DEV: "10.111"
